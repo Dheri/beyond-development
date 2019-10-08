@@ -1,8 +1,10 @@
 # Beyond Spring Boot development
+
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 >I finished my Spring Boot application development, what next?
 
 Lets see.
-## Topics covered
+## Topics covered 
 - External Configurations (spring boot)
 - YML files (general)
 - Multiple profiles (spring boot)
